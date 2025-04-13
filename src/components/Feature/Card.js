@@ -4,7 +4,7 @@ import { HiArrowRight } from "react-icons/hi";
 export default function Card({ dataCard_1 }) {
 
     return (
-        <div className="w-[340px] px-6  xl:px-12 h-auto  xl:py-10 rounded-lg shadow-shadowOne flex items-center 
+        <div className="w-[311px] px-6  xl:px-12 h-auto  xl:py-10 rounded-lg shadow-shadowOne flex items-center 
                        bg-gradient-to-r from-bodyColor to-[#202327] group 
                        hover:bg-gradiant-to-b hover:from-black hover:to-[#1e2024] 
                        transition-colors

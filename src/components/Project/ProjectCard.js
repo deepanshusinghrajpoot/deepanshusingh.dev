@@ -5,7 +5,7 @@ export default function ProjectCard({ project_data }) {
   
   return (
     <div>
-      <div className="w-[311px] h-auto   ">
+      <div className="w-[306px] h-auto   ">
         <div className="w-[340px] p-4 xl:px-12 h-[400px] xl:py-10 rounded-lg shadow-shadowOne flex flex-col items-center 
                        bg-gradient-to-r from-bodyColor to-[#202327] group 
                        hover:bg-gradiant-to-b hover:from-black hover:to-[#1e2024] 
